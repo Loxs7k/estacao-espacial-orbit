@@ -12,4 +12,3 @@ Projeto desenvolvido para a atividade pratica de Git/GitHub da disciplina de Gar
 
 O sistema implementa o **Modulo de Suporte de Vida** (`SuporteVida.java`), responsavel por monitorar os niveis do ambiente da estacao (oxigenio, pressao e sistemas de reciclagem de agua).
 
-# Tripulantes (desenvolvedores)
